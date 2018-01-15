@@ -1,0 +1,5 @@
+开发环境修改源码
+
+NativeIO.java第570行注释，添加return true
+
+YARNRunner.java注释第391，392行.添加 vargs.add("$JAVA_HOME/bin/java");
